@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello!
+
+I don't do a whole lot on Github but I figured I'd throw this here anyways.
+
+I host https://catsarch.com and all the other stuff shown on that page, most of my contributions are related to those different frontends.
+
+I can be reached at:
+- [ButteredCats@protonmail.com](mailto:ButteredCats@protonmail.com)
+- [@butteredcats:catsarch.com](https://matrix.to/#/@butteredcats:catsarch.com)
+
+Feel free to contact me for anything!
 
 <!--
 **ButteredCats/ButteredCats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

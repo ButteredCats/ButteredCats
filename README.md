@@ -2,25 +2,14 @@
 
 I don't do a whole lot on Github but I figured I'd throw this here anyways.
 
-I host https://catsarch.com (also available over [Tor](http://catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion/) and [I2P](http://s6dagpvf5ccnpkyjigjykkrbxwo6xgajm2hvvyyeaymm27qd2tpq.b32.i2p/)) plus all the other stuff shown on that page. Most of my contributions are related to the frontends shown there.
+I'm a huge Linux and homelab nerd who originally made all the frontends I host public as a way to give back to their creators.
 
-I can be reached at:
+Now that I understand some stuff like HTML and CSS along with intermediate knowledge of a few progamming languages, I try to contribute to them where possible. So far most of my efforts have been towards [Redlib](https://github.com/redlib-org/redlib) as that's what I personally use the most.
+
+I host https://catsarch.com (also available over [Tor](http://catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion/) and [I2P](http://s6dagpvf5ccnpkyjigjykkrbxwo6xgajm2hvvyyeaymm27qd2tpq.b32.i2p/)) plus all the other stuff shown on that page.
+
+I can also be reached at:
 - [ButteredCats@protonmail.com](mailto:ButteredCats@protonmail.com) via email
 - [@butteredcats:catsarch.com](https://matrix.to/#/@butteredcats:catsarch.com) through Matrix
 
 Feel free to contact me for anything!
-
-<!--
-**ButteredCats/ButteredCats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -2,7 +2,7 @@
 
 I don't do a whole lot on Github but I figured I'd throw this here anyways.
 
-I host https://catsarch.com and all the other stuff shown on that page, most of my contributions are related to those different frontends.
+I host https://catsarch.com (also available over [Tor](http://catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion/) and [I2P](http://s6dagpvf5ccnpkyjigjykkrbxwo6xgajm2hvvyyeaymm27qd2tpq.b32.i2p/)) plus all the other stuff shown on that page. Most of my contributions are related to the frontends shown there.
 
 I can be reached at:
 - [ButteredCats@protonmail.com](mailto:ButteredCats@protonmail.com) via email

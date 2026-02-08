@@ -1,13 +1,15 @@
 ## Hello!
 
-I'm a huge Linux and homelab nerd who originally made all the frontends I host public as a way to give back to their creators.
+### For my own repos I've moved to https://codeberg.org/ButteredCats
 
-Now that I understand some stuff like HTML and CSS along with intermediate knowledge of a few progamming languages, I try to contribute to them where possible. So far most of my efforts have been towards [Redlib](https://github.com/redlib-org/redlib) as that's what I personally use the most.
+I'm a huge Linux and homelab nerd who mainly hosts frontends as a way to tinker with web stuff.
 
-I host https://catsarch.com (also available over [Tor](http://catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion/) and [I2P](http://s6dagpvf5ccnpkyjigjykkrbxwo6xgajm2hvvyyeaymm27qd2tpq.b32.i2p/)) plus all the other stuff shown on that page.
+I'm no programming expert, but I try to contribute to projects when I find an issue I think I can handle. So far this has mostly been with [Redlib](https://github.com/redlib-org/redlib) as that's what I use the most out of everything I host.
+
+I host https://catsarch.com, also available over [Tor](http://catsarchywsyuss6jdxlypsw5dc7owd5u5tr6bujxb7o6xw2hipqehyd.onion/) and [I2P](http://s6dagpvf5ccnpkyjigjykkrbxwo6xgajm2hvvyyeaymm27qd2tpq.b32.i2p/).
 
 I can be reached at:
-- [ButteredCats@protonmail.com](mailto:ButteredCats@protonmail.com) via email ([PGP key](https://keys.openpgp.org/search?q=butteredcats%40protonmail.com))
+- [ButteredCats@protonmail.com](mailto:ButteredCats@protonmail.com) via email ([GPG key](https://keys.openpgp.org/search?q=butteredcats%40protonmail.com))
 - [@butteredcats:catsarch.com](https://matrix.to/#/@butteredcats:catsarch.com) through Matrix
 
 Feel free to contact me for anything!
